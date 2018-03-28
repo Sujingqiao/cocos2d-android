@@ -1,0 +1,4 @@
+#Thu Mar 29 00:58:41 CST 2018
+base.0=D\:\\cocos2d-android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
