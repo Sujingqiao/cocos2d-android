@@ -1,0 +1,48 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.gitignore
+.idea/workspace.xml
+app/build/generated/assets/
+app/build/generated/res/
+app/build/generated/source/aidl/
+app/build/generated/source/apt/
+app/build/generated/source/rs/
+app/build/intermediates/check-manifest/
+app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/
+app/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/
+app/build/intermediates/incremental/mergeDebugResources/aapt-temp/
+app/build/intermediates/incremental/mergeDebugResources/stripped.dir/
+app/build/intermediates/incremental/processDebugResources/
+app/build/intermediates/incremental/validateSigningDebug/
+app/build/intermediates/lint/
+app/build/intermediates/prebuild/
+app/build/intermediates/res/symbol-table-with-package/
+app/build/intermediates/rs/
+app/build/intermediates/shaders/
+app/build/intermediates/symbols/
+app/build/intermediates/transforms/externalLibsDexMerger/debug/0/
+app/build/tmp/
+firstgame/libs/

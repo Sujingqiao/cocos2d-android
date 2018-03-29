@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:D.\cocos2d-android\firstgame\libs\cocos2d-android.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/firstgame/libs/cocos2d-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/firstgame/libs/cocos2d-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/firstgame/libs/cocos2d-android.jar!/org/cocos2d" />
+    </SOURCES>
+  </library>
+</component>
