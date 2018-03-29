@@ -36,5 +36,6 @@ public class GameLayer extends CCLayer{
         * 使用精灵对象执行该动作
         * */
         mSprite.runAction(jumpTo);
+
     }
 }
